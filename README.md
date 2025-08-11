@@ -82,3 +82,8 @@ The framework is designed to be extensible for:
 - Multi-carrier signal analysis (OFDM)
 - Network protocol identification
 - Cognitive radio applications
+
+
+<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/db7e68e6-f8b3-40f6-9121-da27ef95ae1a" />
+<img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/8319e566-b45f-4b6b-8731-8540c63d78a3" />
+
